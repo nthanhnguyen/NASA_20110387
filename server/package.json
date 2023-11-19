@@ -15,6 +15,7 @@
     "cors": "^2.8.5",
     "csv": "^6.3.5",
     "express": "^4.18.2",
+    "mongoose": "^6.12.0",
     "parco": "^0.12.0"
   },
   "devDependencies": {
